@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Strawberry Pencil Bites",
+      "imgUrl": "https://raw.githubusercontent.com/Tomskyer/JsonData/main/images/pencils.avif",
+      "price": "From £4.99"
+    },
+    {
+      "name": "Rainbow Belts",
+      "imgUrl": "https://raw.githubusercontent.com/Tomskyer/JsonData/main/images/rainbowbelts.webp",
+      "price": "From £4.99"
+    },
+    {
+      "name": "Strawberry Milkshakes",
+      "imgUrl": "https://raw.githubusercontent.com/Tomskyer/JsonData/main/images/milkshake.avif",
+      "price": "From £4.99"
+    },
+    {
+      "name": "Milk Bottles",
+      "imgUrl": "https://raw.githubusercontent.com/Tomskyer/JsonData/main/images/milkbottles.avif",
+      "price": "From £4.99"
+    },
+    {
+      "name": "Candy Cones",
+      "imgUrl": "https://raw.githubusercontent.com/Tomskyer/JsonData/main/images/candycones.webp",
+      "price": "From £4.99"
+    }
+  ]
+}
